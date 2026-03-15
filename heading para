@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>HTML Headings and Paragraphs</title>
+<style>
+body{font-family:Verdana,sans-serif;background-color:rgb(240,248,255);margin:20px}
+h1,h2,h3{color:#2e7d32}
+p{font-size:18px;color:#444;margin-bottom:15px}
+.box{border:3px solid #2e7d32;padding:20px;margin-top:20px}
+</style>
+</head>
+<body>
+<div class="box">
+<h1>Main Heading</h1>
+<h2>Sub Heading</h2>
+<h3>Section Heading</h3>
+<p>This page demonstrates headings, paragraphs and simple CSS styling.</p>
+<p>CSS helps control colors, spacing and overall presentation of HTML content.</p>
+</div>
+</body>
+</html>
