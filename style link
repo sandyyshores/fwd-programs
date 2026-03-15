@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Styled Links Page</title>
+<style>
+body{font-family:Tahoma,sans-serif;background:#fff8e1;padding:40px}
+.card{width:400px;background:#ffffff;border:1px solid #f57f17;padding:25px;margin:auto}
+h1{color:#e65100}
+p{color:#5d4037}
+a{display:inline-block;margin-top:10px;padding:10px 16px;background:#fb8c00;color:white;border:2px solid #ef6c00;text-decoration:none}
+a:hover{background:#ef6c00}
+</style>
+</head>
+<body>
+<div class="card">
+<h1>Domain and Hosting</h1>
+<p>A domain is the website address and hosting stores website files on a server.</p>
+<a href="https://www.github.com" target="_blank">Open GitHub</a>
+</div>
+</body>
+</html>
